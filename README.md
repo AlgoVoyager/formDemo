@@ -1,6 +1,7 @@
 # Form Demo
 
 `npm i`
+this install the dependencies
 `node index.js`
 this starts the server
 
